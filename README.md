@@ -24,12 +24,3 @@ Currently, I’m gaining experience through project based learning and exploring
 
 <b>My GitHub Stats</b>
 
-[![Simret's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimretAbebe)](https://github.com/SimretAbebe)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SimretAbebe/Ethiopian-Queue-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SimretAbebe&repo=Ethiopian-Queue-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SimretAbebe/HabeshaAgriTech" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SimretAbebe&repo=HabeshaAgriTech&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/SimretAbebe/Ethio-Homes-RAG" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SimretAbebe&repo=Ethio-Homes-RAG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
