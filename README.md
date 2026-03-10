@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+Developer;Node.js+Backend+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+Developer;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
