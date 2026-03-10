@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=simretabebe&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
@@ -45,22 +42,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://simret-stats.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simretabebe&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://simret-stats.vercel.app/api/top-langs/?username=simretabebe&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=simretabebe&theme=tokyo-night"/>
-</p>
+</p> -->
