@@ -60,15 +60,6 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simretabebe&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🔥 Featured Projects
-
-🚀 Full-Stack Web Applications  
-⚙️ Django REST API Projects  
-📊 React Dashboard Projects  
-
-*(Pinned repositories will appear here on your profile)*
 
 ---
 
