@@ -5,7 +5,7 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Django+Backend+Developer;React+Learner;Always+Learning+New+Technologies&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Django+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
 </p>
 
 ---
