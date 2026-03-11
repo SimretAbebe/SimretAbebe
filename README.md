@@ -27,7 +27,7 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 <p align="left">
 
 <a href="https://twitter.com/simreta12">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="30">
 </a>
 
 <a href="https://linkedin.com/in/simret-abebe123">
