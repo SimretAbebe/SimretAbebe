@@ -5,7 +5,7 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer;Django+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45&color=0F62FE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer;Django+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45&color=0F62FE" alt="Typing Animation" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 - 💻 Passionate about **Full-Stack Web Development**
 - 🌱 Currently exploring **Machine Learning with Python**
 - 🔧 Focused on **Backend Development, APIs, and Scalable Systems**
-- ⚡ I enjoy building impactful software and solving real-world problems
+- ⚡ I enjoy building impactful software and solving real-world problems  
 
 📫 **Contact:** simretabebe24@gmail.com
 
@@ -28,7 +28,7 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
   <a href="https://twitter.com/simreta12" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter"/>
   </a>
-  
+
   <a href="https://linkedin.com/in/simret-abebe123" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
   </a>
@@ -47,9 +47,9 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simretabebe&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simretabebe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
