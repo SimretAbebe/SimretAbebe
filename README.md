@@ -70,6 +70,4 @@ Computer Science Student | Full-Stack Web Developer | Django Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimretAbebe&theme=github_dark" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimretAbebe&theme=github_dark" />
