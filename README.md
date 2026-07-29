@@ -66,11 +66,7 @@ LangChain · ChromaDB · Llama 3
 <br>
 
 <p align="center">
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simretabebe&theme=tokyo-night&hide_border=true&area=true" />
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
