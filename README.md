@@ -12,7 +12,10 @@ ML & Backend Engineer building credit risk, fraud detection, and financial NLP s
 ---
 
 ### Core Stack
-`Python` `Django` `React` `scikit-learn` `XGBoost / LightGBM` `SHAP` `LangChain`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,postgres,git&perline=10" />
+</p>
+`scikit-learn` `XGBoost / LightGBM` `SHAP` `LangChain`
 
 ---
 
@@ -34,4 +37,8 @@ Retrieval-Augmented Generation chatbot turning raw CFPB complaint data into inst
 
 <p align="center">
 <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SimretAbebe/SimretAbebe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
