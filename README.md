@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0F62FE&height=180&section=header&text=Simret%20Abebe&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ML%20%26%20Backend%20Engineer%20%7C%20FinTech&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0F62FE&height=180&section=header&text=Simret%20Abebe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-ML & Backend Engineer building credit risk, fraud detection, and financial NLP systems for underserved and multilingual markets.
+FinTech ML Engineer & Backend Developer | Credit Scoring, Fraud Detection & Financial NLP | Django • Python
 </p>
 
 <p align="center">
