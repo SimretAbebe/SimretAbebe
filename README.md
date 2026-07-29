@@ -70,5 +70,9 @@ LangChain · ChromaDB · Llama 3
 </p>
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simretabebe&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0F62FE&height=100&section=footer" />
 </p>
