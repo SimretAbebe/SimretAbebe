@@ -83,7 +83,7 @@ LangChain · ChromaDB · Llama 3
 <br>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="140" src="https://github-stats-extended.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
