@@ -3,13 +3,19 @@
 </p>
 
 <p align="center">
-FinTech ML Engineer & Backend Developer | Credit Scoring, Fraud Detection & Financial NLP | Django • Python
+  FinTech ML Engineer & Backend Developer | Credit Scoring, Fraud Detection & Financial NLP | Django • Python
 </p>
 
 <p align="center">
-  <a href="mailto:simretabebe24@gmail.com"><img src="https://img.shields.io/badge/Email-simretabebe24%40gmail.com-0F62FE?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/simret-abebe123"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/simreta12"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:simretabebe24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-simretabebe24%40gmail.com-0F62FE?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/simret-abebe123">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/simreta12">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -33,30 +39,41 @@ FinTech ML Engineer & Backend Developer | Credit Scoring, Fraud Detection & Fina
 <td width="50%" valign="top">
 
 ### 🇪🇹 [Ethiopian Bank Review Intelligence](https://github.com/SimretAbebe/Fintech-Review-Analytics)
-Multilingual (English/Amharic/Afaan Oromo) risk model on real CBE, BOA, and Dashen Bank app reviews.
-**100% recall** on high-risk reviews · SHAP explainability · live dashboard
+
+Multilingual (English/Amharic/Afaan Oromo) risk intelligence system built from Ethiopian bank app reviews.
+
+**100% recall** on high-risk reviews · SHAP explainability · multilingual NLP · live dashboard
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💳 [Credit Risk Probability Model](https://github.com/SimretAbebe/Credit-Risk-Model)
-Basel II-aligned credit scoring using alternative transaction data and RFM proxy variables.
-Full **CI/CD pipeline** · Dockerized
+
+End-to-end credit risk model using alternative transaction data and RFM-based proxy variables.
+
+Basel II-aligned interpretability · Docker · **CI/CD pipeline**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🕵️ [Fraud Detection System](https://github.com/SimretAbebe/Fraud-detection-Model)
-Fraud detection across e-commerce and credit card transactions.
+
+Fraud detection across e-commerce and credit card transactions using multiple machine learning models.
+
 Caught & fixed a **data leakage bug** in cross-validation · SHAP-driven business recommendations
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 [RAG FinTech Complaint Chatbot](https://github.com/SimretAbebe/RAG-FinTech-Complaint-Chatbot)
-RAG chatbot turning raw CFPB complaint data into instant, evidence-backed answers.
+
+RAG-powered chatbot turning raw financial complaint data into instant, evidence-backed insights.
+
 LangChain · ChromaDB · Llama 3
 
 </td>
@@ -66,7 +83,7 @@ LangChain · ChromaDB · Llama 3
 <br>
 
 <p align="center">
-<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
