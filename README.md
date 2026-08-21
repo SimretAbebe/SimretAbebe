@@ -32,7 +32,7 @@
 
 <br>
 
-## 🏦 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Multilingual (English/Amharic/Afaan Oromo) risk intelligence system built from E
 
 <td width="50%" valign="top">
 
-### 💳 [Credit Risk Probability Model](https://github.com/SimretAbebe/Credit-Risk-Model)
+###  [Credit Risk Probability Model](https://github.com/SimretAbebe/Credit-Risk-Model)
 
 End-to-end credit risk model using alternative transaction data and RFM-based proxy variables.
 
@@ -60,7 +60,7 @@ Basel II-aligned interpretability · Docker · **CI/CD pipeline**
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ [Fraud Detection System](https://github.com/SimretAbebe/Fraud-detection-Model)
+### [Fraud Detection System](https://github.com/SimretAbebe/Fraud-detection-Model)
 
 Fraud detection across e-commerce and credit card transactions using multiple machine learning models.
 
@@ -70,7 +70,7 @@ Caught & fixed a **data leakage bug** in cross-validation · SHAP-driven busines
 
 <td width="50%" valign="top">
 
-### 🤖 [RAG FinTech Complaint Chatbot](https://github.com/SimretAbebe/RAG-FinTech-Complaint-Chatbot)
+### [RAG FinTech Complaint Chatbot](https://github.com/SimretAbebe/RAG-FinTech-Complaint-Chatbot)
 
 RAG-powered chatbot turning raw financial complaint data into instant, evidence-backed insights.
 
