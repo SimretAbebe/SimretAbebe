@@ -38,7 +38,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🇪🇹 [Ethiopian Bank Review Intelligence](https://github.com/SimretAbebe/Fintech-Review-Analytics)
+### [Ethiopian Bank Review Intelligence](https://github.com/SimretAbebe/Fintech-Review-Analytics)
 
 Multilingual (English/Amharic/Afaan Oromo) risk intelligence system built from Ethiopian bank app reviews.
 
