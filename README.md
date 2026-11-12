@@ -1,3 +1,4 @@
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0F62FE&height=180&section=header&text=Simret%20Abebe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -32,17 +33,10 @@
 
 <br>
 
-<h3 align="center">📊 Activity Overview</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-66%25-2ea043?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pull%20requests-30%25-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Issues-4%25-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code%20review-0%25-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-stats-extended.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="140" src="https://github-stats-extended.vercel.app/api?username=simretabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=rank" />
 </p>
 
 <p align="center">
